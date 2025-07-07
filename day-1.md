@@ -24,7 +24,6 @@ Start your day with clarity, energy, and purpose. Here's a structured plan desig
 
 ## 7:00 AM – Creative Boost
 - Write scripts, review shoots, or brainstorm content ideas
-- Check TinkerHub media tasks and collaborate if needed
 - Capture or edit media assets if time allows
 
 ## 7:30 AM – Review and Prepare
