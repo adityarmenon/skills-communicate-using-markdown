@@ -36,4 +36,6 @@ Start your day with clarity, energy, and purpose. Here's a structured plan desig
 - Get dressed and prepare for the day
 - Step out with confidence and purpose
 
+```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
+```
