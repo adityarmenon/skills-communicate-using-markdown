@@ -19,7 +19,13 @@ Start your day with clarity, energy, and purpose. Here's a structured plan desig
 
 ## 6:30 AM – Technical Focus
 - Review your latest project updates or GitHub issues
-- Explore new tools or ideas in cybersecurity or web development
+- **Cybersecurity Focus:**
+  - Stay updated with latest CVEs and security patches
+  - Review OWASP Top 10 vulnerabilities
+  - Practice secure coding principles
+  - Explore tools: Burp Suite, Wireshark, Metasploit
+  - Check security news on [Krebs on Security](https://krebsonsecurity.com/)
+  - Review threat intelligence feeds
 - Plan coding sessions or study time effectively
 
 ## 7:00 AM – Creative Boost
